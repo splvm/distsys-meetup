@@ -1,5 +1,3 @@
-# MSFT System Meetup
-
 ### Resources
 - [Code](https://classroom.github.com/a/_3Qha2rO) for the homework
 - [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) for meetup
