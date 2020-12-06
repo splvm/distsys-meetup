@@ -30,6 +30,6 @@
 
 
 ### Recordings (YouTube Videos)
-1. Meetup 2: https://youtu.be/Vk_GHllRWy4
-2. Meetup 1: https://youtu.be/eIbw4El_xsM
-3. Meetup 0: https://youtu.be/qAFka0s1r2M
+1. [Meetup 2](https://youtu.be/Vk_GHllRWy4)
+2. [Meetup 1](https://youtu.be/eIbw4El_xsM)
+3. [Meetup 0](https://youtu.be/qAFka0s1r2M)
