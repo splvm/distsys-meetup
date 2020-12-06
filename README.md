@@ -19,7 +19,7 @@
 3. Read https://pdos.csail.mit.edu/6.824/notes/l-gfs.txt
 4. Continue working on [Lab 1](https://pdos.csail.mit.edu/6.824/labs/lab-mr.html)
 
-### Meetup 2:
+### Meetup 2 Discussion:
 1. [Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)
 2. If you want to know more about [Communicating sequential processes](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
 3. [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call) has several implementations:
