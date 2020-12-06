@@ -29,3 +29,9 @@
     4. [Implementing gRPC in Go](https://medium.com/@sprashant.30/implementing-grpc-using-go-62d4406cd616#:~:text=%20Implementing%20gRPC%20using%20Go%20%201%20Step,to%20do%20is%20implement%20the%20ConnectorServiceServer...%20More%20)
 4. [Go Concurrency Patterns](https://youtu.be/f6kdp27TYZs)
 5. If you want to know more about Closure: [JavaScript's Closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+
+
+### Recordings (YouTube Videos)
+1. Meetup 2: https://youtu.be/Vk_GHllRWy4
+2. Meetup 1: https://youtu.be/eIbw4El_xsM
+3. Meetup 0: https://youtu.be/qAFka0s1r2M
