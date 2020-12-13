@@ -11,11 +11,10 @@
 - Recording in [YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
 - Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
 
-### For next week Dec 12, 2020:
-1. Watch https://pdos.csail.mit.edu/6.824/video/3.html
-2. Read https://pdos.csail.mit.edu/6.824/papers/gfs.pdf
-3. Read https://pdos.csail.mit.edu/6.824/notes/l-gfs.txt
-4. Continue working on [Lab 1](https://pdos.csail.mit.edu/6.824/labs/lab-mr.html)
+### For next week Dec 19, 2020:
+1. Watch https://pdos.csail.mit.edu/6.824/video/4.html
+2. Read https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf
+4. Daedline for [Lab 1](https://pdos.csail.mit.edu/6.824/labs/lab-mr.html)
 
 ### Meetup 2 Discussion:
 1. [Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)
