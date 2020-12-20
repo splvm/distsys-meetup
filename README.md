@@ -26,6 +26,9 @@
 4. [Go Concurrency Patterns](https://youtu.be/f6kdp27TYZs)
 5. If you want to know more about Closure: [JavaScript's Closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
+### Slides
+Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT-System-Meetup)
+
 ### Recordings (YouTube Videos)
 1. [Meetup 4](https://youtu.be/gk4c_GZY9SU)
 1. [Meetup 3](https://youtu.be/GZaiRrqUjow)
