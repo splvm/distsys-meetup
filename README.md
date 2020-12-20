@@ -11,10 +11,9 @@
 - Recording in [YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
 - Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
 
-### For next week Dec 19, 2020:
-1. Watch https://pdos.csail.mit.edu/6.824/video/4.html
-2. Read https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf
-4. Daedline for [Lab 1](https://pdos.csail.mit.edu/6.824/labs/lab-mr.html)
+### For next week Dec 26, 2020:
+1. Holiday break!
+2. (Optional): read [BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) paper
 
 ### Meetup 2 Discussion:
 1. [Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)
@@ -27,8 +26,8 @@
 4. [Go Concurrency Patterns](https://youtu.be/f6kdp27TYZs)
 5. If you want to know more about Closure: [JavaScript's Closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
-
 ### Recordings (YouTube Videos)
+1. [Meetup 4](https://youtu.be/gk4c_GZY9SU)
 1. [Meetup 3](https://youtu.be/GZaiRrqUjow)
 1. [Meetup 2](https://youtu.be/Vk_GHllRWy4)
 2. [Meetup 1](https://youtu.be/eIbw4El_xsM)
