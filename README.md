@@ -6,14 +6,16 @@
 - [Distributed System 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/)
 - Calendar: https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing
 - (Internal) Teams: g078pwd
-- (Public) Discord
+- (Public) [Discord](https://discord.gg/SjcQqpYPkc)
 - (Public) WeChat: add mossaka or Lin1991Wen
 - Recording in [YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
 - Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
 
-### For next week Dec 26, 2020:
-1. Holiday break!
-2. (Optional): read [BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) paper
+### For next week Jan 2, 2021:
+1. Watch [lecture 6](https://pdos.csail.mit.edu/6.824/video/6.html)
+2. Read [Raft](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
+3. (Optional): read [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+4. Due: [lab 2A](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)
 
 ### Meetup 2 Discussion:
 1. [Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)
