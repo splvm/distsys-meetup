@@ -11,11 +11,16 @@
 - Recording in [YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
 - Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
 
-### For next week Jan 2, 2021:
-1. Watch [lecture 6](https://pdos.csail.mit.edu/6.824/video/6.html)
+### For next week Jan 9, 2021:
+1. Watch [lecture 7](https://pdos.csail.mit.edu/6.824/video/7.html)
 2. Read [Raft](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
-3. (Optional): read [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
-4. Due: [lab 2A](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)
+4. Due: [lab 2B](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)
+
+### Meetup 5 Discussion:
+1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
+2. One of the most-cited paper ever in Computer Science is about [Logic Clock](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+3. [Vector Clock](https://en.wikipedia.org/wiki/Vector_clock)
+4. Raft assume non-byzantine fault. Here is a summary of [Byzentine Fault](https://en.wikipedia.org/wiki/Byzantine_fault). Here is Lamport's [paper](https://lamport.azurewebsites.net/pubs/byz.pdf) you should read.
 
 ### Meetup 2 Discussion:
 1. [Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)
@@ -32,6 +37,7 @@
 Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT-System-Meetup)
 
 ### Recordings (YouTube Videos)
+1. [Meetup 5](https://youtu.be/K2phntkNgYM)
 1. [Meetup 4](https://youtu.be/gk4c_GZY9SU)
 1. [Meetup 3](https://youtu.be/GZaiRrqUjow)
 1. [Meetup 2](https://youtu.be/Vk_GHllRWy4)
