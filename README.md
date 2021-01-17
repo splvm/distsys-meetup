@@ -11,10 +11,9 @@
 - Recording in [YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
 - Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
 
-### For next week Jan 9, 2021:
-1. Watch [lecture 7](https://pdos.csail.mit.edu/6.824/video/7.html)
-2. Read [Raft](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
-4. Due: [lab 2B](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)
+### For next week Jan 23, 2021:
+1. Watch [lecture 8](https://pdos.csail.mit.edu/6.824/video/8.html)
+2. Read [Zookeeper](https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf)
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
