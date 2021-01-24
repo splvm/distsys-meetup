@@ -11,9 +11,9 @@
 - Recording in [YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
 - Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
 
-### For next week Jan 23, 2021:
-1. Watch [lecture 8](https://pdos.csail.mit.edu/6.824/video/8.html)
-2. Read [Zookeeper](https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf)
+### For next week Jan 30, 2021:
+1. Watch [lecture 9](https://pdos.csail.mit.edu/6.824/video/9.html)
+2. Read [CRAQ](https://pdos.csail.mit.edu/6.824/papers/craq.pdf)
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
@@ -36,6 +36,7 @@
 Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT-System-Meetup)
 
 ### Recordings (YouTube Videos)
+1. [Meetup 8](https://youtu.be/b5Kp6b-yaiA)
 1. [Meetup 7](https://youtu.be/1ORd7geczUM)
 1. [Meetup 6](https://youtu.be/IIDOrseYxzA)
 1. [Meetup 5](https://youtu.be/K2phntkNgYM)
