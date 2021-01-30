@@ -5,16 +5,16 @@
 - [DDIA (O’Reilly)](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [Distributed System 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/)
 - [Calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)
-- (Internal) Teams: g078pwd
-- (Public) [Discord](https://discord.gg/SjcQqpYPkc)
-- (Public) WeChat: add mossaka or Lin1991Wen
+- (Public) WeChat: add Lin1991Wen
 - Recording in [YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
 - Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
+
+### Annoucement:
+1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
 
 ### For next week Jan 30, 2021:
 1. Watch [lecture 9](https://pdos.csail.mit.edu/6.824/video/9.html)
 2. Read [CRAQ](https://pdos.csail.mit.edu/6.824/papers/craq.pdf)
-3. Lab 2C due
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
