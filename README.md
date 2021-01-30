@@ -4,7 +4,7 @@
 - MIT 6.824 [Course](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [DDIA (O’Reilly)](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [Distributed System 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/)
-- Calendar: https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing
+- [Calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)
 - (Internal) Teams: g078pwd
 - (Public) [Discord](https://discord.gg/SjcQqpYPkc)
 - (Public) WeChat: add mossaka or Lin1991Wen
@@ -14,6 +14,7 @@
 ### For next week Jan 30, 2021:
 1. Watch [lecture 9](https://pdos.csail.mit.edu/6.824/video/9.html)
 2. Read [CRAQ](https://pdos.csail.mit.edu/6.824/papers/craq.pdf)
+3. Lab 2C due
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
