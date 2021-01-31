@@ -13,9 +13,11 @@
 1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
-### For next week Jan 30, 2021:
-1. Watch [lecture 9](https://pdos.csail.mit.edu/6.824/video/9.html)
-2. Read [CRAQ](https://pdos.csail.mit.edu/6.824/papers/craq.pdf)
+### For next week Feb 6, 2021:
+1. Watch [lecture 10](http://nil.csail.mit.edu/6.824/2020/video/10.html)
+2. Read [Aurora](http://nil.csail.mit.edu/6.824/2020/papers/aurora.pdf)
+3. Read [CRAQ](http://nil.csail.mit.edu/6.824/2020/papers/craq.pdf)
+4. [Lab 2C](http://nil.csail.mit.edu/6.824/2020/labs/lab-raft.html) due 
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
