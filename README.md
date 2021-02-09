@@ -37,6 +37,8 @@
 Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT-System-Meetup)
 
 ### Recordings (YouTube Videos)
+1. [Meetup 10](https://youtu.be/_5EMpX6g04M)
+1. [Meetup 9](https://youtu.be/zBUXhqx3e38)
 1. [Meetup 8](https://youtu.be/b5Kp6b-yaiA)
 1. [Meetup 7](https://youtu.be/1ORd7geczUM)
 1. [Meetup 6](https://youtu.be/IIDOrseYxzA)
