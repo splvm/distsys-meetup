@@ -14,10 +14,7 @@
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
 ### For next week Feb 6, 2021:
-1. Watch [lecture 10](http://nil.csail.mit.edu/6.824/2020/video/10.html)
-2. Read [Aurora](http://nil.csail.mit.edu/6.824/2020/papers/aurora.pdf)
-3. Read [CRAQ](http://nil.csail.mit.edu/6.824/2020/papers/craq.pdf)
-4. [Lab 2C](http://nil.csail.mit.edu/6.824/2020/labs/lab-raft.html) due 
+1. Continue [Aurora](http://nil.csail.mit.edu/6.824/2020/papers/aurora.pdf)
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
