@@ -13,8 +13,10 @@
 1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
-### For next week Feb 6, 2021:
-1. Continue [Aurora](http://nil.csail.mit.edu/6.824/2020/papers/aurora.pdf)
+### For next week Feb 20, 2021:
+1. Watch [lecture 11](http://nil.csail.mit.edu/6.824/2020/video/11.html)
+2. Read [Frangipani](http://nil.csail.mit.edu/6.824/2020/papers/thekkath-frangipani.pdf)
+3. Start working on [lab 3a](http://nil.csail.mit.edu/6.824/2020/labs/lab-kvraft.html)
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
@@ -36,7 +38,11 @@
 ### Slides
 Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT-System-Meetup)
 
+### Homework
+1. [lab 2c](https://youtu.be/z7qNbNLzk4w)
+
 ### Recordings (YouTube Videos)
+1. [Meetup 11](https://youtu.be/0Z5RSO56lwY)
 1. [Meetup 10](https://youtu.be/_5EMpX6g04M)
 1. [Meetup 9](https://youtu.be/zBUXhqx3e38)
 1. [Meetup 8](https://youtu.be/b5Kp6b-yaiA)
