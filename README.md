@@ -1,13 +1,13 @@
 ### Resources
 - [Code](https://classroom.github.com/a/_3Qha2rO) for the homework
 - [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) for meetup
-- MIT 6.824 [Course](http://nil.csail.mit.edu/6.824/2020/schedule.html)
+- [MIT 6.824 Course](http://nil.csail.mit.edu/6.824/2020/schedule.html)
 - [DDIA (O’Reilly)](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [Distributed System 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/)
 - [Calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)
 - (Public) WeChat: add Lin1991Wen
-- Recording in [YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
-- Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
+- [Recording in YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
+- [Google Doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit) for Weekly open questions.
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [MIT Distrited System Reading Group](http://dsrg.pdos.csail.mit.edu/papers/)
 - [Designing Distributed System Reading List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
