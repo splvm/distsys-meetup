@@ -10,7 +10,7 @@
 - Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [MIT Distrited System Reading Group](http://dsrg.pdos.csail.mit.edu/papers/)
-[- Designing Distributed System Reading List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
+- [Designing Distributed System Reading List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
 
 ### Annoucement:
 1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
