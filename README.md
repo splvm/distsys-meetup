@@ -39,10 +39,10 @@
 ### Slides
 Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT-System-Meetup)
 
-### Homework
+### Homework Recordings (Youtube Videos)
 1. [lab 2c](https://youtu.be/z7qNbNLzk4w)
 
-### Recordings (YouTube Videos)
+### Meetup Recordings (YouTube Videos)
 1. [Meetup 11](https://youtu.be/0Z5RSO56lwY)
 1. [Meetup 10](https://youtu.be/_5EMpX6g04M)
 1. [Meetup 9](https://youtu.be/zBUXhqx3e38)
