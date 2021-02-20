@@ -8,6 +8,7 @@
 - (Public) WeChat: add Lin1991Wen
 - Recording in [YouTube](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68) playlist.
 - Weekly open questions filled in this [doc](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit).
+- [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
 ### Annoucement:
 1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
