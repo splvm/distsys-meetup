@@ -17,8 +17,8 @@
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
 ### For next week Feb 20, 2021:
-1. Watch [lecture 11](http://nil.csail.mit.edu/6.824/2020/video/11.html)
-2. Read [Frangipani](http://nil.csail.mit.edu/6.824/2020/papers/thekkath-frangipani.pdf)
+1. Watch [lecture 12](http://nil.csail.mit.edu/6.824/2020/video/12.html)
+2. Read [6.033 Chapter 9](https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/), just 9.1.5, 9.1.6, 9.5.2, 9.5.3, 9.6.3
 3. Start working on [lab 3a](http://nil.csail.mit.edu/6.824/2020/labs/lab-kvraft.html)
 
 ### Meetup 5 Discussion:
@@ -45,6 +45,7 @@ Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT
 1. [lab 2c](https://youtu.be/z7qNbNLzk4w)
 
 ### Meetup Recordings (YouTube Videos)
+1. [Meetup 12](https://youtu.be/Otx1vscXloo)
 1. [Meetup 11](https://youtu.be/0Z5RSO56lwY)
 1. [Meetup 10](https://youtu.be/_5EMpX6g04M)
 1. [Meetup 9](https://youtu.be/zBUXhqx3e38)
