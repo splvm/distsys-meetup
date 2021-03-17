@@ -1,3 +1,5 @@
+> "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable" -- Leslie Lamport
+
 ### Resources
 - [Code](https://classroom.github.com/a/_3Qha2rO) for the homework
 - [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) for meetup
