@@ -19,7 +19,7 @@
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
 ### For next week March 27, 2021:
-1. Read [FaRM](http://nil.csail.mit.edu/6.824/2020/papers/spanner.pdf)
+1. Read [FaRM](http://nil.csail.mit.edu/6.824/2020/papers/farm-2015.pdf)
 2. Watch [Lecture 14](http://nil.csail.mit.edu/6.824/2020/video/14.html)
 3. Post questions on [here](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit)
 4. Start working on [Lab 3b](http://nil.csail.mit.edu/6.824/2020/labs/lab-kvraft.html)
