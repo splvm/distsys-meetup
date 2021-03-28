@@ -48,6 +48,7 @@ Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT
 1. [lab 2c](https://youtu.be/z7qNbNLzk4w)
 
 ### Meetup Recordings (YouTube Videos)
+1. [Meetup 16](https://youtu.be/OEW8YVGnhtU)
 1. [Meetup 15](https://youtu.be/huZ71lUYhs0)
 1. [Meetup 14: Guest Talk](https://youtu.be/ljO7b7iYBwc)
 1. [Meetup 13](https://youtu.be/jKxwenhUWvA)
