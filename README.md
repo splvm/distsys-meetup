@@ -18,11 +18,8 @@
 1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
-### For next week March 27, 2021:
-1. Read [FaRM](http://nil.csail.mit.edu/6.824/2020/papers/farm-2015.pdf)
-2. Watch [Lecture 14](http://nil.csail.mit.edu/6.824/2020/video/14.html)
-3. Post questions on [here](https://docs.google.com/document/d/1mvlQgpiGbUA_GSWtnNanKtT60Kgg05AlN6gsRuYz_T0/edit)
-4. Start working on [Lab 3b](http://nil.csail.mit.edu/6.824/2020/labs/lab-kvraft.html)
+### For next week April 3, 2021:
+1. Guest talk: A introduction to Bitcoin for software engineers
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
