@@ -21,7 +21,7 @@
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
 ### For next week April 3, 2021:
-1. Guest talk: A introduction to Bitcoin for software engineers
+1. Guest talk (Noah Ruderman): A introduction to Bitcoin for software engineers
 2. Recommended Readings:
 - hash function
 - https://qvault.io/security/very-basic-intro-to-hash-functions-sha-256-md-5-etc/
