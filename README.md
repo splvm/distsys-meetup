@@ -22,6 +22,22 @@
 
 ### For next week April 3, 2021:
 1. Guest talk: A introduction to Bitcoin for software engineers
+2. Recommended Readings:
+- hash function
+- https://qvault.io/security/very-basic-intro-to-hash-functions-sha-256-md-5-etc/
+- https://resources.infosecinstitute.com/topic/introduction-to-hash-functions/
+- https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- blockchain
+- https://en.bitcoin.it/wiki/Block_chain
+- merkle tree
+- https://en.wikipedia.org/wiki/Merkle_tree
+- public key-cryptography
+- https://betterprogramming.pub/an-introduction-to-public-key-cryptography-3ea0cf7bf4ba
+- https://access.redhat.com/documentation/en-us/red_hat_certificate_system/9/html/planning_installation_and_deployment_guide/introduction_to_public_key_cryptography
+- byzantine generals problem
+- https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
+- bitcoin whitepaper
+- https://bitcoin.org/bitcoin.pdf
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
