@@ -20,24 +20,18 @@
 1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
-### For next week April 3, 2021:
-1. Guest talk (Noah Ruderman): A introduction to Bitcoin for software engineers
-2. Recommended Readings:
-- hash function
-- https://qvault.io/security/very-basic-intro-to-hash-functions-sha-256-md-5-etc/
-- https://resources.infosecinstitute.com/topic/introduction-to-hash-functions/
-- https://en.wikipedia.org/wiki/Cryptographic_hash_function
-- blockchain
-- https://en.bitcoin.it/wiki/Block_chain
-- merkle tree
-- https://en.wikipedia.org/wiki/Merkle_tree
-- public key-cryptography
-- https://betterprogramming.pub/an-introduction-to-public-key-cryptography-3ea0cf7bf4ba
-- https://access.redhat.com/documentation/en-us/red_hat_certificate_system/9/html/planning_installation_and_deployment_guide/introduction_to_public_key_cryptography
-- byzantine generals problem
-- https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
-- bitcoin whitepaper
-- https://bitcoin.org/bitcoin.pdf
+### For next week April 10, 2021:
+1. Watch [lecture 15: big data spark](http://nil.csail.mit.edu/6.824/2020/video/15.html)
+2. Read [Spark](http://nil.csail.mit.edu/6.824/2020/papers/zaharia-spark.pdf)
+3. Start working on [lab 3b](http://nil.csail.mit.edu/6.824/2020/labs/lab-kvraft.html)
+
+### Meetup 17 Discussion:
+1. If you want to learn more about hash functions: [sha256](https://qvault.io/security/very-basic-intro-to-hash-functions-sha-256-md-5-etc/), [hash](https://resources.infosecinstitute.com/topic/introduction-to-hash-functions/), [wiki](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+2. To learn more about [blockchain](https://en.bitcoin.it/wiki/Block_chain)
+3. What is [merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
+4. What is [public key crypto](https://betterprogramming.pub/an-introduction-to-public-key-cryptography-3ea0cf7bf4ba)
+5. The byzentine general [problem](https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969).
+6. The Bitcoin white paper is [here](https://bitcoin.org/bitcoin.pdf)
 
 ### Meetup 5 Discussion:
 1. What is [logical lock](https://en.wikipedia.org/wiki/Logical_clock)? Here is a course [slide](https://www.cs.uic.edu/~ajayk/Chapter3.pdf) about logical clock in general.
@@ -64,6 +58,7 @@ Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT
 1. [lab 2c](https://youtu.be/z7qNbNLzk4w)
 
 ### Meetup Recordings (YouTube Videos)
+1. [Meetup 17: Guest Talk](https://youtu.be/c-9L_zw3xyA)
 1. [Meetup 16](https://youtu.be/OEW8YVGnhtU)
 1. [Meetup 15](https://youtu.be/huZ71lUYhs0)
 1. [Meetup 14: Guest Talk](https://youtu.be/ljO7b7iYBwc)
