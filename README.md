@@ -20,10 +20,9 @@
 1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
-### For next week April 24, 2021:
+### For next week May 1, 2021:
 1. Watch [lecture 16: Cache Consistency: Memcached at Facebook](http://nil.csail.mit.edu/6.824/2020/video/16.html)
 2. Read [Memcached at Facebook](http://nil.csail.mit.edu/6.824/2020/papers/memcache-fb.pdf)
-3. Start working on [lab 3b](http://nil.csail.mit.edu/6.824/2020/labs/lab-kvraft.html)
 
 ### Meetup 17 Discussion:
 1. If you want to learn more about hash functions: [sha256](https://qvault.io/security/very-basic-intro-to-hash-functions-sha-256-md-5-etc/), [hash](https://resources.infosecinstitute.com/topic/introduction-to-hash-functions/), [wiki](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
@@ -58,6 +57,7 @@ Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT
 1. [lab 2c](https://youtu.be/z7qNbNLzk4w)
 
 ### Meetup Recordings (YouTube Videos)
+1. [Meetup 20](https://youtu.be/OPHVjeOsaO8)
 1. [Meetup 19](https://youtu.be/afSrpudnpbg)
 1. [Meetup 18](https://youtu.be/p2m2WHyce_w)
 1. [Meetup 17: Guest Talk](https://youtu.be/c-9L_zw3xyA)
