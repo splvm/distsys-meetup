@@ -50,7 +50,7 @@
 5. If you want to know more about Closure: [JavaScript's Closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 ### Slides
-Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/MSFT-System-Meetup)
+Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/home/tree/main/slides)
 
 ### Homework Recordings (Youtube Videos)
 1. [Lab 3a](https://youtu.be/R2W8A8Qi7rI)
