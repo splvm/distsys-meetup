@@ -57,6 +57,7 @@ Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/home
 1. [lab 2c](https://youtu.be/z7qNbNLzk4w)
 
 ### Meetup Recordings (YouTube Videos)
+1. [Meetup 23](https://youtu.be/WXwj2BitGGg)
 1. [Meetup 22](https://youtu.be/LuFC_ImBfkg)
 1. [Meetup 21](https://youtu.be/ijNqQQRje_s)
 1. [Meetup 20](https://youtu.be/OPHVjeOsaO8)
