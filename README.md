@@ -20,9 +20,9 @@
 1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
-### For next week May 22, 2021:
-1. Watch [lecture 18: Fork Consistency, Certificate Transparency](http://nil.csail.mit.edu/6.824/2020/video/18.html)
-2. Read [Certificate Transparency](https://certificate.transparency.dev/), Also [This](https://certificate.transparency.dev/howctworks/), And [This](https://research.swtch.com/tlog), but skip the Tiles sections and the appendices.
+### For next week May 30, 2021:
+1. Watch [lecture 19: Bitcoin](http://nil.csail.mit.edu/6.824/2020/video/19.html)
+2. Read [Bitcoin](http://nil.csail.mit.edu/6.824/2020/papers/bitcoin.pdf)
 
 ### Meetup 17 Discussion:
 1. If you want to learn more about hash functions: [sha256](https://qvault.io/security/very-basic-intro-to-hash-functions-sha-256-md-5-etc/), [hash](https://resources.infosecinstitute.com/topic/introduction-to-hash-functions/), [wiki](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
