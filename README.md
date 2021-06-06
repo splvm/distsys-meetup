@@ -20,9 +20,8 @@
 1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
 2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
 
-### For next week May 30, 2021:
-1. Watch [lecture 20: Blockstack](http://nil.csail.mit.edu/6.824/2020/video/20.html)
-2. Read [Bitcoin](http://nil.csail.mit.edu/6.824/2020/papers/blockstack-2017.pdf)
+### For next week June 12, 2021:
+1. Last MIT 6.824 meetup! Come and celebrate with me and 林文!
 
 ### Meetup 17 Discussion:
 1. If you want to learn more about hash functions: [sha256](https://qvault.io/security/very-basic-intro-to-hash-functions-sha-256-md-5-etc/), [hash](https://resources.infosecinstitute.com/topic/introduction-to-hash-functions/), [wiki](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
@@ -57,6 +56,7 @@ Refer to this [repo](https://github.com/Microsoft-Distributed-System-Meetup/home
 1. [lab 2c](https://youtu.be/z7qNbNLzk4w)
 
 ### Meetup Recordings (YouTube Videos)
+1. [Meetup 25](https://youtu.be/dUl6iF82vEA)
 1. [Meetup 24](https://youtu.be/IUrgCp19jBg)
 1. [Meetup 23](https://youtu.be/WXwj2BitGGg)
 1. [Meetup 22](https://youtu.be/LuFC_ImBfkg)
