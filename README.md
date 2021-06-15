@@ -1,4 +1,5 @@
 > "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable" -- Leslie Lamport
+![6.824 pin](assets/pin.png)
 
 ![by @deniseyu21](http://www.mypassionfor.net/wp-content/uploads/2020/03/8-fallacies-of-distributed-computing-1024x714.png)
 
@@ -17,8 +18,7 @@
 - [Designing Distributed System Reading List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
 
 ### Annoucement:
-1. 根据上次的feedback survey，我们决定单独把lab go through的环节从meetup提出来。我会采取pre-recording的形式来录下lab的讲解然后把视频放在YouTube上面。会比之前的go through讲的更仔细一些。
-2. 我们需要更多的volunteer来host每周的meetup！如果你对某个星期的主题感兴趣，可以到[calendar](https://docs.google.com/spreadsheets/d/1RsbGpq1cwNSmYn5hcmT8Hv5O4qssl2HXsTcG82RHVQk/edit?usp=sharing)上面写下自己的名字和联系方式，或者联系Mossaka或林文。
+1. 我们的Meetup正式结束啦~ 感谢所有参与进来的人！[6/15/2021]
 
 ### For next week June 12, 2021:
 1. Last MIT 6.824 meetup! Come and celebrate with me and 林文!
