@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: msft system metup
+description: We meet weekly to discuss papers about distributed systems
+google_analytics: UA-83991908-1
+github:
+  is_project_page: false
