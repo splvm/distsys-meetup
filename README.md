@@ -1,5 +1,7 @@
+
+<img src="assets/pin.png" width="250" height="250">
+
 > "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable" -- Leslie Lamport
-![6.824 pin](assets/pin.png)
 
 ![by @deniseyu21](http://www.mypassionfor.net/wp-content/uploads/2020/03/8-fallacies-of-distributed-computing-1024x714.png)
 
