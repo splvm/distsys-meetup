@@ -21,7 +21,7 @@
 
 ### Annoucement:
 1. 我们的Meetup正式结束啦~ 感谢所有参与进来的人！[6/15/2021]
-2. Our database meetup has started, please see [here](https://microsoft-distributed-system-meetup.github.io/database-meetup) if you're interested. [11/13/2021]
+2. Our database meetup has started, please see [here](https://splvm.github.io/database-meetup/) if you're interested. [11/13/2021]
 
 ### For next week June 12, 2021:
 1. Last MIT 6.824 meetup! Come and celebrate with me and 林文!
